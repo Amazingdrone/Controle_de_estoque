@@ -508,4 +508,4 @@ with tab_manual:
     4.  **UFPR (Universidade Federal do Paraná).** *Manual de Inventário Florestal - Mensuração de Pilhas de Madeira*. Departamento de Engenharia Florestal.
     5.  **COTEC (Comissão Técnica de Florestas).** *Tabelas de Sazonalidade de Umidade para a Região dos Campos Gerais*.
     6.  **WOLF, A. et al.** *Accuracy of Volume Measurement of Wood Piles Using UAV Photogrammetry*. Remote Sensing, 2018. (Base para a metodologia do Drone).
-    """)''
+    """)
